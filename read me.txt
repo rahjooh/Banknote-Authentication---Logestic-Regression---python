@@ -1,0 +1,3 @@
+Banknote Authentication
+This is the code for a classifier that detects fake banknotes.
+its uses Logestic Regression algorithm for performing classifier
